@@ -1,6 +1,6 @@
-# GTV: Cooperative Tabular Data Synthesis using Vertical Federated Learning
+# GTV: Generating Tabular Data via Vertical Federated Learning
 
-This repo is the testbed for paper ***GTV: Cooperative Tabular Data Synthesis using Vertical Federated Learning***. The demo shown here is the GTV on Loan dataset. The code contains three parts: `D_2_0_G_0_2`, `D_2_0_G_2_0` and `Evaluation`. `D_2_0_G_0_2`, `D_2_0_G_2_0` are two configurations of GTV, `Evaluation` contains the code for evaluation of the synthetic data quality. The training process, we use `D_2_0_G_0_2` as an example, the same process applies for `D_2_0_G_2_0`.
+This repo is the testbed for paper ***GTV: Generating Tabular Data via Vertical Federated Learning***. The demo shown here is the GTV on Loan dataset. The code contains three parts: `D_2_0_G_0_2`, `D_2_0_G_2_0` and `Evaluation`. `D_2_0_G_0_2`, `D_2_0_G_2_0` are two configurations of GTV, `Evaluation` contains the code for evaluation of the synthetic data quality. The training process, we use `D_2_0_G_0_2` as an example, the same process applies for `D_2_0_G_2_0`.
 
 
 ## Training process
