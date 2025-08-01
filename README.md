@@ -60,11 +60,13 @@ We provided an ipython notebook `Loan_Evaluation_Demo.ipynb` under `Evaluation` 
 To cite this paper, you could use this bibtex
 
 ```
-@article{zhao2023gtv,
+@inproceedings{zhao2025gtv,
   title={Gtv: Generating tabular data via vertical federated learning},
   author={Zhao, Zilong and Wu, Han and Van Moorsel, Aad and Chen, Lydia Y},
-  journal={arXiv preprint arXiv:2302.01706},
-  year={2023}
+  booktitle={2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)},
+  pages={33--46},
+  year={2025},
+  organization={IEEE}
 }
 
 ```
